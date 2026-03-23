@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Mise en Place for the SOC: Why I’m Trading the Apron for a Keyboard"
+title: "Mise en Place for the SOC"
 date: 2026-03-22
-categories: career-transition
 ---
 
 ### From the Heat of the Kitchen to the Heat of an Incident
